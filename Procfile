@@ -1,1 +1,1 @@
-"web: gunicorns sg_belly_button_bio:app" 
+web: gunicorn sago-belly-button-diversity:app
