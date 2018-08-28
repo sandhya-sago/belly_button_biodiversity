@@ -4,4 +4,4 @@ This project visualizes the Belly Button Biodiversity data from http://robdunnla
 
 My visualization using Javascript and Plotly. This has been deployed to https://sago-belly-button-diversity.herokuapp.com/
 
-!(belly_button_diversity.jpeg)
+!(belly_button_diversity.jpg)
